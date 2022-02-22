@@ -1,4 +1,4 @@
-## Data-Science-and-BA
+## Machine learning Algorithm 🤖
 <br></br>
 
 # !pip install
