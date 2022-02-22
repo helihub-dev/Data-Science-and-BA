@@ -1,8 +1,8 @@
-# Machine learning Algorithm 🤖
-<br></br>
+# Machine learning Algorithms 🤖
 
-# !pip install
+## !pip install
 Install/Update the packages/libraries using !pip install {libray name} whenever ModuleNotFound error occurs.
+<br></br>
 
 # Supervised Learning 
 - Supervised learning provides us with a powerful tool to classify and process data using machine language. With supervised learning we use labeled data, which is a data set that has been classified, to infer a learning algorithm. The data set is used as the basis for predicting the classification of other unlabeled data through the use of machine learning algorithms.
